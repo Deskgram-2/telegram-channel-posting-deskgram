@@ -1,0 +1,9 @@
+{
+  "channels": [
+    "@channel_one",
+    "@channel_two"
+  ],
+  "bot_token": "123456:ABCDEF",
+  "threads": 5,
+  "message_type": "post"
+}
