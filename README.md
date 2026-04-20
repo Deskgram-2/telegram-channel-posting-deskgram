@@ -1,13 +1,13 @@
-# Рассылка постов по каналам через Deskgram 2
+﻿# Рассылка постов по каналам через Deskgram 2
 
 Рассылка постов по каналам в Deskgram 2 помогает пакетно публиковать готовые сообщения в Telegram-каналы через бота. Этот сценарий полезен, когда нужно не вручную раскладывать контент по десяткам площадок, а централизованно управлять списком каналов, сообщением, токеном бота и скоростью публикации.
 
-[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview)
+[Главный хаб Deskgram 2](https://github.com/Deskgram-2/deskgram-2-telegram-automation) · [Сайт](https://deskgram2.com/) · [Telegram-бот](https://t.me/DG2welcomebot) · [Web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=ru)
 ## Интерактивный Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsend_channels_post)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsend_channels_post&lang=ru)
 
-Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsend_channels_post)
+Попробовать модуль в браузере: [Открыть веб-превью](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fsend_channels_post&lang=ru)
 
 
 
@@ -146,3 +146,4 @@
 ### Что чаще всего ограничивает эффективность такого сценария?
 
 Обычно это не сам модуль, а качество канальной сетки, готовность бота, структура контента и то, встроен ли постинг в более широкую контентную воронку, а не используется ли изолированно.
+
