@@ -1,11 +1,11 @@
 # Repo Metadata
 
-## Основное
+## 
 
 - proposed_repo: `telegram-channel-posting-deskgram`
 - language: `ru`
-- role: продуктовый гайд по массовой публикации постов в Telegram-каналы
-- primary_keyword: `рассылка постов по каналам telegram`
+- role:        Telegram-
+- primary_keyword: `    telegram`
 - secondary_keywords:
   - `telegram channel posting`
   - `post to telegram channels`
@@ -14,7 +14,7 @@
 
 ## GitHub Description
 
-Рассылка постов по каналам в Deskgram 2: список каналов, конструктор сообщения, токен бота, потоки, логи и централизованный Telegram channel posting.
+     Deskgram 2:  ,  ,  , ,    Telegram channel posting.
 
 ## Topics
 
